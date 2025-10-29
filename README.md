@@ -9,7 +9,7 @@ I'm **John Nwanosike**, a passionate developer, DevOps, Kubernetes, and ReactJS 
 - **Languages:** JavaScript, TypeScript, Python, Go, Kotlin, Dart, PHP  
 - **Front-end:** React, Svelte, Next.js, Flutter, SASS  
 - **Back-end:** Node.js, Express, Deno, Golang  
-- **Databases:** PostgreSQL, MongoDB, Firebase  
+- **Databases:** MySQL, Cassandra, PostgreSQL, MongoDB, Firebase  
 - **Cloud & DevOps:** Docker, Kubernetes, AWS, Terraform  
 - **Other Tools:** GraphQL, Redis, WebAssembly  
 
