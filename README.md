@@ -18,5 +18,3 @@ I'm **John Nwanosike**, a passionate developer, DevOps, Kubernetes, and ReactJS 
 
 Let's build, learn, and grow together! 🚀  
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=johnnwanosike1)](https://github.com/ryo-ma/github-profile-trophy)
